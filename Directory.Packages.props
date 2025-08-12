@@ -1,0 +1,20 @@
+<Project>
+  <PropertyGroup Label="Common properties">
+    <Product>Micro Ai</Product>
+    <Copyright>Copyright (c) 2025 - matheus-delre.</Copyright>
+    <Authors>Matheus Rodrigues Del Re.</Authors>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>preview</LangVersion>
+    <EnablePreviewFeatures>true</EnablePreviewFeatures>
+    <GenerateRequiresPreviewFeaturesAttribute>true</GenerateRequiresPreviewFeaturesAttribute>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <NoWarn>CS8600, CS8603, CA1822, CS8604, CS8618, CS8601, CS8602, CS8625, CS8629, CS9124, CS8622</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup Label="Packages">
+   
+  </ItemGroup>
+</Project>
