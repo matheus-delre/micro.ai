@@ -36,7 +36,7 @@
 
 ## Requirements
 
-- .NET 8+
+- .NET 9+
 - TorchSharp
 - RocksDB native binaries (via NuGet `RocksDb.Native`, etc.)
 - CPU by default; CUDA optional if available
