@@ -1,0 +1,5004 @@
+{
+  "Pairs": [
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Bulbasaur é do tipo Normal e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ivysaur usa Tackle com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Venusaur pode ter a habilidade Overgrow, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Charmander costuma habitar florestas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Charmeleon atua como sweeper físico, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Qual item melhora o desempenho deste Pokémon?",
+      "B": "Com Leftovers, Charizard potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Adamant é comum em Squirtle para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Wartortle se beneficia de EVs quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fire podem counterar Blastoise se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Caterpie forma boa sinergia com parceiros que cobrem fraquezas do tipo Water.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Quick Attack, Metapod pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Butterfree resiste a ataques do tipo Grass e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Weedle é do tipo Electric e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Kakuna usa Thunderbolt com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Beedrill pode ter a habilidade Blaze, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Pidgey costuma habitar cavernas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Pidgeotto atua como sweeper especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Life Orb, Pidgeot potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Modest é comum em Rattata para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Raticate se beneficia de IVs quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ice podem counterar Ekans se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Arbok forma boa sinergia com parceiros que cobrem fraquezas do tipo Fighting.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Flamethrower, Pikachu pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Raichu resiste a ataques do tipo Poison e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Sandshrew é do tipo Ground e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Sandslash usa Hydro Pump com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Nidoran♀ pode ter a habilidade Torrent, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Nidorina costuma habitar montanhas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Nidoqueen atua como wall física, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Band, Nidoran♂ potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Jolly é comum em Nidorino para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Nidoking se beneficia de STAB quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Flying podem counterar Clefairy se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Clefable forma boa sinergia com parceiros que cobrem fraquezas do tipo Psychic.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Solar Beam, Vulpix pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Ninetales resiste a ataques do tipo Bug e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Jigglypuff é do tipo Rock e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Wigglytuff usa Earthquake com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Zubat pode ter a habilidade Static, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Golbat costuma habitar costas rochosas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Oddish atua como wall especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Scarf, Gloom potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Timid é comum em Vileplume para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Paras se beneficia de resistências quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ghost podem counterar Parasect se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Venonat forma boa sinergia com parceiros que cobrem fraquezas do tipo Dragon.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Psychic, Venomoth pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Diglett resiste a ataques do tipo Dark e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dugtrio é do tipo Steel e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Meowth usa Shadow Ball com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Persian pode ter a habilidade Intimidate, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Psyduck costuma habitar rios e lagos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Golduck atua como suporte, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Specs, Mankey potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Impish é comum em Primeape para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "A quais tipos este Pokémon resiste ou é fraco?",
+      "B": "Growlithe se beneficia de fraquezas quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fairy podem counterar Arcanine se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Poliwag forma boa sinergia com parceiros que cobrem fraquezas do tipo Normal.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Ice Beam, Poliwhirl pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Poliwrath resiste a ataques do tipo Fire e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Abra é do tipo Water e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Kadabra usa Dragon Claw com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Alakazam pode ter a habilidade Levitate, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Machop costuma habitar oceanos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Machoke atua como pivot ofensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Focus Sash, Machamp potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Bold é comum em Bellsprout para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Weepinbell se beneficia de priority quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Grass podem counterar Victreebel se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Tentacool forma boa sinergia com parceiros que cobrem fraquezas do tipo Electric.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Close Combat, Tentacruel pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Geodude resiste a ataques do tipo Ice e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Graveler é do tipo Fighting e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Golem usa Moonblast com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Ponyta pode ter a habilidade Synchronize, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Rapidash costuma habitar planícies, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Slowpoke atua como pivot defensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Assault Vest, Slowbro potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Calm é comum em Magnemite para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Magneton se beneficia de status quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Poison podem counterar Farfetch'd se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Doduo forma boa sinergia com parceiros que cobrem fraquezas do tipo Ground.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Play Rough, Dodrio pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Seel resiste a ataques do tipo Flying e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dewgong é do tipo Psychic e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Grimer usa Iron Head com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Muk pode ter a habilidade Technician, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Shellder costuma habitar pântanos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Cloyster atua como lead de hazards, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Sitrus Berry, Gastly potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Careful é comum em Haunter para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Gengar se beneficia de clima quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Bug podem counterar Onix se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Drowzee forma boa sinergia com parceiros que cobrem fraquezas do tipo Rock.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Rock Slide, Hypno pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Krabby resiste a ataques do tipo Ghost e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Kingler é do tipo Dragon e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Voltorb usa Air Slash com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Electrode pode ter a habilidade Moxie, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Exeggcute costuma habitar desertos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Exeggutor atua como sweeper físico, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Rocky Helmet, Cubone potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Naive é comum em Marowak para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Hitmonlee se beneficia de campo elétrico quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Dark podem counterar Hitmonchan se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Lickitung forma boa sinergia com parceiros que cobrem fraquezas do tipo Steel.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Energy Ball, Koffing pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Weezing resiste a ataques do tipo Fairy e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Rhyhorn é do tipo Normal e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Rhydon usa Crunch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Chansey pode ter a habilidade Guts, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Tangela costuma habitar campos nevados, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Kangaskhan atua como sweeper especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Heavy-Duty Boots, Horsea potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Hasty é comum em Seadra para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Goldeen se beneficia de campo de grama quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fire podem counterar Seaking se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Staryu forma boa sinergia com parceiros que cobrem fraquezas do tipo Water.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Surf, Starmie pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Mr. Mime resiste a ataques do tipo Grass e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Scyther é do tipo Electric e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Jynx usa Volt Switch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Electabuzz pode ter a habilidade Pressure, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Magmar costuma habitar zonas urbanas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Pinsir atua como wall física, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Eviolite, Tauros potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Relaxed é comum em Magikarp para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Gyarados se beneficia de hazards quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ice podem counterar Lapras se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Ditto forma boa sinergia com parceiros que cobrem fraquezas do tipo Fighting.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar U-turn, Eevee pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Vaporeon resiste a ataques do tipo Poison e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Jolteon é do tipo Ground e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Flareon usa Swords Dance com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Porygon pode ter a habilidade Prankster, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Omanyte costuma habitar ruínas antigas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Omastar atua como wall especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Qual item melhora o desempenho deste Pokémon?",
+      "B": "Com Leftovers, Kabuto potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Adamant é comum em Kabutops para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Aerodactyl se beneficia de Terastal quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Flying podem counterar Snorlax se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Articuno forma boa sinergia com parceiros que cobrem fraquezas do tipo Psychic.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Calm Mind, Zapdos pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Moltres resiste a ataques do tipo Bug e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dratini é do tipo Rock e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Dragonair usa Nasty Plot com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Dragonite pode ter a habilidade Protean, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Mewtwo costuma habitar corredores vulcânicos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Mew atua como suporte, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Life Orb, Chikorita potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Modest é comum em Bayleef para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Meganium se beneficia de Mega Evolução quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ghost podem counterar Cyndaquil se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Quilava forma boa sinergia com parceiros que cobrem fraquezas do tipo Dragon.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Dragon Dance, Typhlosion pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Totodile resiste a ataques do tipo Dark e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Croconaw é do tipo Steel e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Feraligatr usa Ice Punch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Mareep pode ter a habilidade Magic Guard, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Flaaffy costuma habitar ilhas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Ampharos atua como pivot ofensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Band, Sudowoodo potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Jolly é comum em Espeon para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Umbreon se beneficia de Dynamax quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fairy podem counterar Scizor se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Heracross forma boa sinergia com parceiros que cobrem fraquezas do tipo Normal.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Fire Punch, Skarmory pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Suicune resiste a ataques do tipo Fire e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Entei é do tipo Water e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Raikou usa Thunder Punch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Lugia pode ter a habilidade Multiscale, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Ho-Oh costuma habitar vales ventosos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Treecko atua como pivot defensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Scarf, Grovyle potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Timid é comum em Sceptile para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Torchic se beneficia de EVs quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Grass podem counterar Combusken se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Blaziken forma boa sinergia com parceiros que cobrem fraquezas do tipo Electric.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Knock Off, Mudkip pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Marshtomp resiste a ataques do tipo Ice e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Swampert é do tipo Fighting e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ralts usa Scald com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Kirlia pode ter a habilidade Regenerator, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Gardevoir costuma habitar florestas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Gallade atua como lead de hazards, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Specs, Gulpin potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Impish é comum em Swalot para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Plusle se beneficia de IVs quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Poison podem counterar Minun se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Altaria forma boa sinergia com parceiros que cobrem fraquezas do tipo Ground.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Draco Meteor, Salamence pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Metagross resiste a ataques do tipo Flying e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Latias é do tipo Psychic e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Latios usa Hurricane com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Kyogre pode ter a habilidade Adaptability, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Groudon costuma habitar cavernas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Rayquaza atua como sweeper físico, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Focus Sash, Turtwig potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Bold é comum em Grotle para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Torterra se beneficia de STAB quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Bug podem counterar Chimchar se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Monferno forma boa sinergia com parceiros que cobrem fraquezas do tipo Rock.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Focus Blast, Infernape pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Piplup resiste a ataques do tipo Ghost e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Prinplup é do tipo Dragon e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Empoleon usa Stone Edge com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Lucario pode ter a habilidade Huge Power, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Garchomp costuma habitar montanhas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Togekiss atua como sweeper especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Assault Vest, Weavile potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Calm é comum em Magnezone para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Rhyperior se beneficia de resistências quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Dark podem counterar Leafeon se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Glaceon forma boa sinergia com parceiros que cobrem fraquezas do tipo Steel.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Shadow Sneak, Rotom pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Giratina resiste a ataques do tipo Fairy e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dialga é do tipo Normal e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Palkia usa Extreme Speed com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Darkrai pode ter a habilidade Sand Stream, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Arceus costuma habitar costas rochosas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Snivy atua como wall física, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Sitrus Berry, Servine potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Careful é comum em Serperior para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "A quais tipos este Pokémon resiste ou é fraco?",
+      "B": "Tepig se beneficia de fraquezas quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fire podem counterar Pignite se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Emboar forma boa sinergia com parceiros que cobrem fraquezas do tipo Water.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Leaf Blade, Oshawott pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dewott resiste a ataques do tipo Grass e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Samurott é do tipo Electric e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Zoroark usa Flare Blitz com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Haxorus pode ter a habilidade Drizzle, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Hydreigon costuma habitar rios e lagos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Volcarona atua como wall especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Rocky Helmet, Reshiram potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Naive é comum em Zekrom para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Kyurem se beneficia de priority quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ice podem counterar Chespin se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Quilladin forma boa sinergia com parceiros que cobrem fraquezas do tipo Fighting.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Wild Charge, Chesnaught pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Fennekin resiste a ataques do tipo Poison e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Braixen é do tipo Ground e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Delphox usa Tackle com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Froakie pode ter a habilidade Drought, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Frogadier costuma habitar oceanos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Greninja atua como suporte, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Heavy-Duty Boots, Aegislash potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Hasty é comum em Talonflame para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Sylveon se beneficia de status quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Flying podem counterar Yveltal se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Xerneas forma boa sinergia com parceiros que cobrem fraquezas do tipo Psychic.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Quick Attack, Zygarde pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Rowlet resiste a ataques do tipo Bug e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dartrix é do tipo Rock e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Decidueye usa Thunderbolt com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Litten pode ter a habilidade Snow Warning, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Torracat costuma habitar planícies, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Incineroar atua como pivot ofensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Eviolite, Popplio potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Relaxed é comum em Brionne para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Primarina se beneficia de clima quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ghost podem counterar Mimikyu se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Lycanroc forma boa sinergia com parceiros que cobrem fraquezas do tipo Dragon.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Flamethrower, Tapu Koko pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Solgaleo resiste a ataques do tipo Dark e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Lunala é do tipo Steel e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Necrozma usa Hydro Pump com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Grookey pode ter a habilidade Beast Boost, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Thwackey costuma habitar pântanos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Rillaboom atua como pivot defensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Qual item melhora o desempenho deste Pokémon?",
+      "B": "Com Leftovers, Scorbunny potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Adamant é comum em Raboot para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Cinderace se beneficia de campo elétrico quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fairy podem counterar Sobble se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Drizzile forma boa sinergia com parceiros que cobrem fraquezas do tipo Normal.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Solar Beam, Inteleon pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Corviknight resiste a ataques do tipo Fire e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dragapult é do tipo Water e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Zacian usa Earthquake com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Zamazenta pode ter a habilidade Sheer Force, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Eternatus costuma habitar desertos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Sprigatito atua como lead de hazards, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Life Orb, Floragato potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Modest é comum em Meowscarada para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Fuecoco se beneficia de campo de grama quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Grass podem counterar Crocalor se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Skeledirge forma boa sinergia com parceiros que cobrem fraquezas do tipo Electric.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Psychic, Quaxly pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Quaxwell resiste a ataques do tipo Ice e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Quaquaval é do tipo Fighting e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Miraidon usa Shadow Ball com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Koraidon pode ter a habilidade Serene Grace, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Palafin costuma habitar campos nevados, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Baxcalibur atua como sweeper físico, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Band, Bulbasaur potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Jolly é comum em Ivysaur para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Venusaur se beneficia de hazards quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Poison podem counterar Charmander se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Charmeleon forma boa sinergia com parceiros que cobrem fraquezas do tipo Ground.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Ice Beam, Charizard pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Squirtle resiste a ataques do tipo Flying e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Wartortle é do tipo Psychic e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Blastoise usa Dragon Claw com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Caterpie pode ter a habilidade Overgrow, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Metapod costuma habitar zonas urbanas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Butterfree atua como sweeper especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Scarf, Weedle potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Timid é comum em Kakuna para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Beedrill se beneficia de Terastal quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Bug podem counterar Pidgey se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Pidgeotto forma boa sinergia com parceiros que cobrem fraquezas do tipo Rock.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Close Combat, Pidgeot pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Rattata resiste a ataques do tipo Ghost e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Raticate é do tipo Dragon e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ekans usa Moonblast com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Arbok pode ter a habilidade Blaze, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Pikachu costuma habitar ruínas antigas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Raichu atua como wall física, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Specs, Sandshrew potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Impish é comum em Sandslash para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Nidoran♀ se beneficia de Mega Evolução quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Dark podem counterar Nidorina se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Nidoqueen forma boa sinergia com parceiros que cobrem fraquezas do tipo Steel.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Play Rough, Nidoran♂ pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Nidorino resiste a ataques do tipo Fairy e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Nidoking é do tipo Normal e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Clefairy usa Iron Head com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Clefable pode ter a habilidade Torrent, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Vulpix costuma habitar corredores vulcânicos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Ninetales atua como wall especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Focus Sash, Jigglypuff potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Bold é comum em Wigglytuff para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Zubat se beneficia de Dynamax quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fire podem counterar Golbat se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Oddish forma boa sinergia com parceiros que cobrem fraquezas do tipo Water.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Rock Slide, Gloom pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Vileplume resiste a ataques do tipo Grass e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Paras é do tipo Electric e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Parasect usa Air Slash com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Venonat pode ter a habilidade Static, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Venomoth costuma habitar ilhas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Diglett atua como suporte, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Assault Vest, Dugtrio potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Calm é comum em Meowth para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Persian se beneficia de EVs quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ice podem counterar Psyduck se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Golduck forma boa sinergia com parceiros que cobrem fraquezas do tipo Fighting.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Energy Ball, Mankey pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Primeape resiste a ataques do tipo Poison e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Growlithe é do tipo Ground e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Arcanine usa Crunch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Poliwag pode ter a habilidade Intimidate, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Poliwhirl costuma habitar vales ventosos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Poliwrath atua como pivot ofensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Sitrus Berry, Abra potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Careful é comum em Kadabra para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Alakazam se beneficia de IVs quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Flying podem counterar Machop se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Machoke forma boa sinergia com parceiros que cobrem fraquezas do tipo Psychic.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Surf, Machamp pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Bellsprout resiste a ataques do tipo Bug e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Weepinbell é do tipo Rock e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Victreebel usa Volt Switch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Tentacool pode ter a habilidade Levitate, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Tentacruel costuma habitar florestas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Geodude atua como pivot defensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Rocky Helmet, Graveler potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Naive é comum em Golem para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ponyta se beneficia de STAB quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ghost podem counterar Rapidash se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Slowpoke forma boa sinergia com parceiros que cobrem fraquezas do tipo Dragon.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar U-turn, Slowbro pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Magnemite resiste a ataques do tipo Dark e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Magneton é do tipo Steel e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Farfetch'd usa Swords Dance com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Doduo pode ter a habilidade Synchronize, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Dodrio costuma habitar cavernas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Seel atua como lead de hazards, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Heavy-Duty Boots, Dewgong potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Hasty é comum em Grimer para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Muk se beneficia de resistências quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fairy podem counterar Shellder se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Cloyster forma boa sinergia com parceiros que cobrem fraquezas do tipo Normal.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Calm Mind, Gastly pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Haunter resiste a ataques do tipo Fire e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Gengar é do tipo Water e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Onix usa Nasty Plot com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Drowzee pode ter a habilidade Technician, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Hypno costuma habitar montanhas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Krabby atua como sweeper físico, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Eviolite, Kingler potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Relaxed é comum em Voltorb para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "A quais tipos este Pokémon resiste ou é fraco?",
+      "B": "Electrode se beneficia de fraquezas quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Grass podem counterar Exeggcute se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Exeggutor forma boa sinergia com parceiros que cobrem fraquezas do tipo Electric.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Dragon Dance, Cubone pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Marowak resiste a ataques do tipo Ice e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Hitmonlee é do tipo Fighting e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Hitmonchan usa Ice Punch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Lickitung pode ter a habilidade Moxie, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Koffing costuma habitar costas rochosas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Weezing atua como sweeper especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Qual item melhora o desempenho deste Pokémon?",
+      "B": "Com Leftovers, Rhyhorn potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Adamant é comum em Rhydon para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Chansey se beneficia de priority quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Poison podem counterar Tangela se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Kangaskhan forma boa sinergia com parceiros que cobrem fraquezas do tipo Ground.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Fire Punch, Horsea pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Seadra resiste a ataques do tipo Flying e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Goldeen é do tipo Psychic e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Seaking usa Thunder Punch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Staryu pode ter a habilidade Guts, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Starmie costuma habitar rios e lagos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Mr. Mime atua como wall física, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Life Orb, Scyther potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Modest é comum em Jynx para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Electabuzz se beneficia de status quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Bug podem counterar Magmar se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Pinsir forma boa sinergia com parceiros que cobrem fraquezas do tipo Rock.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Knock Off, Tauros pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Magikarp resiste a ataques do tipo Ghost e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Gyarados é do tipo Dragon e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Lapras usa Scald com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Ditto pode ter a habilidade Pressure, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Eevee costuma habitar oceanos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Vaporeon atua como wall especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Band, Jolteon potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Jolly é comum em Flareon para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Porygon se beneficia de clima quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Dark podem counterar Omanyte se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Omastar forma boa sinergia com parceiros que cobrem fraquezas do tipo Steel.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Draco Meteor, Kabuto pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Kabutops resiste a ataques do tipo Fairy e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Aerodactyl é do tipo Normal e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Snorlax usa Hurricane com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Articuno pode ter a habilidade Prankster, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Zapdos costuma habitar planícies, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Moltres atua como suporte, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Scarf, Dratini potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Timid é comum em Dragonair para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Dragonite se beneficia de campo elétrico quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fire podem counterar Mewtwo se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Mew forma boa sinergia com parceiros que cobrem fraquezas do tipo Water.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Focus Blast, Chikorita pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Bayleef resiste a ataques do tipo Grass e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Meganium é do tipo Electric e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Cyndaquil usa Stone Edge com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Quilava pode ter a habilidade Protean, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Typhlosion costuma habitar pântanos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Totodile atua como pivot ofensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Specs, Croconaw potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Impish é comum em Feraligatr para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Mareep se beneficia de campo de grama quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ice podem counterar Flaaffy se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Ampharos forma boa sinergia com parceiros que cobrem fraquezas do tipo Fighting.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Shadow Sneak, Sudowoodo pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Espeon resiste a ataques do tipo Poison e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Umbreon é do tipo Ground e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Scizor usa Extreme Speed com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Heracross pode ter a habilidade Magic Guard, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Skarmory costuma habitar desertos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Suicune atua como pivot defensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Focus Sash, Entei potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Bold é comum em Raikou para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Lugia se beneficia de hazards quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Flying podem counterar Ho-Oh se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Treecko forma boa sinergia com parceiros que cobrem fraquezas do tipo Psychic.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Leaf Blade, Grovyle pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Sceptile resiste a ataques do tipo Bug e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Torchic é do tipo Rock e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Combusken usa Flare Blitz com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Blaziken pode ter a habilidade Multiscale, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Mudkip costuma habitar campos nevados, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Marshtomp atua como lead de hazards, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Assault Vest, Swampert potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Calm é comum em Ralts para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Kirlia se beneficia de Terastal quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ghost podem counterar Gardevoir se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Gallade forma boa sinergia com parceiros que cobrem fraquezas do tipo Dragon.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Wild Charge, Gulpin pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Swalot resiste a ataques do tipo Dark e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Plusle é do tipo Steel e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Minun usa Tackle com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Altaria pode ter a habilidade Regenerator, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Salamence costuma habitar zonas urbanas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Metagross atua como sweeper físico, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Sitrus Berry, Latias potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Careful é comum em Latios para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Kyogre se beneficia de Mega Evolução quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fairy podem counterar Groudon se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Rayquaza forma boa sinergia com parceiros que cobrem fraquezas do tipo Normal.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Quick Attack, Turtwig pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Grotle resiste a ataques do tipo Fire e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Torterra é do tipo Water e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Chimchar usa Thunderbolt com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Monferno pode ter a habilidade Adaptability, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Infernape costuma habitar ruínas antigas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Piplup atua como sweeper especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Rocky Helmet, Prinplup potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Naive é comum em Empoleon para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Lucario se beneficia de Dynamax quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Bulbasaur é do tipo Normal e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ivysaur usa Tackle com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Venusaur pode ter a habilidade Overgrow, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Charmander costuma habitar florestas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Charmeleon atua como sweeper físico, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Qual item melhora o desempenho deste Pokémon?",
+      "B": "Com Leftovers, Charizard potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Adamant é comum em Squirtle para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Wartortle se beneficia de EVs quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fire podem counterar Blastoise se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Caterpie forma boa sinergia com parceiros que cobrem fraquezas do tipo Water.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Quick Attack, Metapod pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Butterfree resiste a ataques do tipo Grass e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Weedle é do tipo Electric e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Kakuna usa Thunderbolt com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Beedrill pode ter a habilidade Blaze, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Pidgey costuma habitar cavernas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Pidgeotto atua como sweeper especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Life Orb, Pidgeot potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Modest é comum em Rattata para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Raticate se beneficia de IVs quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ice podem counterar Ekans se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Arbok forma boa sinergia com parceiros que cobrem fraquezas do tipo Fighting.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Flamethrower, Pikachu pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Raichu resiste a ataques do tipo Poison e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Sandshrew é do tipo Ground e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Sandslash usa Hydro Pump com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Nidoran♀ pode ter a habilidade Torrent, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Nidorina costuma habitar montanhas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Nidoqueen atua como wall física, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Band, Nidoran♂ potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Jolly é comum em Nidorino para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Nidoking se beneficia de STAB quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Flying podem counterar Clefairy se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Clefable forma boa sinergia com parceiros que cobrem fraquezas do tipo Psychic.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Solar Beam, Vulpix pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Ninetales resiste a ataques do tipo Bug e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Jigglypuff é do tipo Rock e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Wigglytuff usa Earthquake com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Zubat pode ter a habilidade Static, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Golbat costuma habitar costas rochosas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Oddish atua como wall especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Scarf, Gloom potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Timid é comum em Vileplume para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Paras se beneficia de resistências quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ghost podem counterar Parasect se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Venonat forma boa sinergia com parceiros que cobrem fraquezas do tipo Dragon.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Psychic, Venomoth pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Diglett resiste a ataques do tipo Dark e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dugtrio é do tipo Steel e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Meowth usa Shadow Ball com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Persian pode ter a habilidade Intimidate, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Psyduck costuma habitar rios e lagos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Golduck atua como suporte, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Specs, Mankey potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Impish é comum em Primeape para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "A quais tipos este Pokémon resiste ou é fraco?",
+      "B": "Growlithe se beneficia de fraquezas quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fairy podem counterar Arcanine se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Poliwag forma boa sinergia com parceiros que cobrem fraquezas do tipo Normal.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Ice Beam, Poliwhirl pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Poliwrath resiste a ataques do tipo Fire e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Abra é do tipo Water e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Kadabra usa Dragon Claw com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Alakazam pode ter a habilidade Levitate, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Machop costuma habitar oceanos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Machoke atua como pivot ofensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Focus Sash, Machamp potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Bold é comum em Bellsprout para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Weepinbell se beneficia de priority quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Grass podem counterar Victreebel se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Tentacool forma boa sinergia com parceiros que cobrem fraquezas do tipo Electric.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Close Combat, Tentacruel pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Geodude resiste a ataques do tipo Ice e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Graveler é do tipo Fighting e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Golem usa Moonblast com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Ponyta pode ter a habilidade Synchronize, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Rapidash costuma habitar planícies, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Slowpoke atua como pivot defensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Assault Vest, Slowbro potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Calm é comum em Magnemite para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Magneton se beneficia de status quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Poison podem counterar Farfetch'd se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Doduo forma boa sinergia com parceiros que cobrem fraquezas do tipo Ground.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Play Rough, Dodrio pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Seel resiste a ataques do tipo Flying e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dewgong é do tipo Psychic e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Grimer usa Iron Head com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Muk pode ter a habilidade Technician, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Shellder costuma habitar pântanos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Cloyster atua como lead de hazards, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Sitrus Berry, Gastly potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Careful é comum em Haunter para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Gengar se beneficia de clima quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Bug podem counterar Onix se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Drowzee forma boa sinergia com parceiros que cobrem fraquezas do tipo Rock.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Rock Slide, Hypno pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Krabby resiste a ataques do tipo Ghost e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Kingler é do tipo Dragon e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Voltorb usa Air Slash com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Electrode pode ter a habilidade Moxie, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Exeggcute costuma habitar desertos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Exeggutor atua como sweeper físico, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Rocky Helmet, Cubone potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Naive é comum em Marowak para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Hitmonlee se beneficia de campo elétrico quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Dark podem counterar Hitmonchan se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Lickitung forma boa sinergia com parceiros que cobrem fraquezas do tipo Steel.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Energy Ball, Koffing pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Weezing resiste a ataques do tipo Fairy e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Rhyhorn é do tipo Normal e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Rhydon usa Crunch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Chansey pode ter a habilidade Guts, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Tangela costuma habitar campos nevados, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Kangaskhan atua como sweeper especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Heavy-Duty Boots, Horsea potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Hasty é comum em Seadra para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Goldeen se beneficia de campo de grama quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fire podem counterar Seaking se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Staryu forma boa sinergia com parceiros que cobrem fraquezas do tipo Water.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Surf, Starmie pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Mr. Mime resiste a ataques do tipo Grass e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Scyther é do tipo Electric e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Jynx usa Volt Switch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Electabuzz pode ter a habilidade Pressure, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Magmar costuma habitar zonas urbanas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Pinsir atua como wall física, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Eviolite, Tauros potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Relaxed é comum em Magikarp para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Gyarados se beneficia de hazards quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ice podem counterar Lapras se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Ditto forma boa sinergia com parceiros que cobrem fraquezas do tipo Fighting.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar U-turn, Eevee pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Vaporeon resiste a ataques do tipo Poison e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Jolteon é do tipo Ground e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Flareon usa Swords Dance com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Porygon pode ter a habilidade Prankster, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Omanyte costuma habitar ruínas antigas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Omastar atua como wall especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Qual item melhora o desempenho deste Pokémon?",
+      "B": "Com Leftovers, Kabuto potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Adamant é comum em Kabutops para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Aerodactyl se beneficia de Terastal quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Flying podem counterar Snorlax se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Articuno forma boa sinergia com parceiros que cobrem fraquezas do tipo Psychic.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Calm Mind, Zapdos pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Moltres resiste a ataques do tipo Bug e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dratini é do tipo Rock e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Dragonair usa Nasty Plot com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Dragonite pode ter a habilidade Protean, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Mewtwo costuma habitar corredores vulcânicos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Mew atua como suporte, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Life Orb, Chikorita potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Modest é comum em Bayleef para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Meganium se beneficia de Mega Evolução quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ghost podem counterar Cyndaquil se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Quilava forma boa sinergia com parceiros que cobrem fraquezas do tipo Dragon.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Dragon Dance, Typhlosion pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Totodile resiste a ataques do tipo Dark e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Croconaw é do tipo Steel e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Feraligatr usa Ice Punch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Mareep pode ter a habilidade Magic Guard, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Flaaffy costuma habitar ilhas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Ampharos atua como pivot ofensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Band, Sudowoodo potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Jolly é comum em Espeon para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Umbreon se beneficia de Dynamax quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fairy podem counterar Scizor se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Heracross forma boa sinergia com parceiros que cobrem fraquezas do tipo Normal.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Fire Punch, Skarmory pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Suicune resiste a ataques do tipo Fire e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Entei é do tipo Water e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Raikou usa Thunder Punch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Lugia pode ter a habilidade Multiscale, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Ho-Oh costuma habitar vales ventosos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Treecko atua como pivot defensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Scarf, Grovyle potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Timid é comum em Sceptile para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Torchic se beneficia de EVs quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Grass podem counterar Combusken se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Blaziken forma boa sinergia com parceiros que cobrem fraquezas do tipo Electric.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Knock Off, Mudkip pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Marshtomp resiste a ataques do tipo Ice e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Swampert é do tipo Fighting e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ralts usa Scald com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Kirlia pode ter a habilidade Regenerator, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Gardevoir costuma habitar florestas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Gallade atua como lead de hazards, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Specs, Gulpin potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Impish é comum em Swalot para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Plusle se beneficia de IVs quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Poison podem counterar Minun se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Altaria forma boa sinergia com parceiros que cobrem fraquezas do tipo Ground.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Draco Meteor, Salamence pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Metagross resiste a ataques do tipo Flying e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Latias é do tipo Psychic e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Latios usa Hurricane com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Kyogre pode ter a habilidade Adaptability, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Groudon costuma habitar cavernas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Rayquaza atua como sweeper físico, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Focus Sash, Turtwig potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Bold é comum em Grotle para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Torterra se beneficia de STAB quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Bug podem counterar Chimchar se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Monferno forma boa sinergia com parceiros que cobrem fraquezas do tipo Rock.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Focus Blast, Infernape pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Piplup resiste a ataques do tipo Ghost e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Prinplup é do tipo Dragon e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Empoleon usa Stone Edge com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Lucario pode ter a habilidade Huge Power, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Garchomp costuma habitar montanhas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Togekiss atua como sweeper especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Assault Vest, Weavile potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Calm é comum em Magnezone para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Rhyperior se beneficia de resistências quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Dark podem counterar Leafeon se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Glaceon forma boa sinergia com parceiros que cobrem fraquezas do tipo Steel.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Shadow Sneak, Rotom pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Giratina resiste a ataques do tipo Fairy e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dialga é do tipo Normal e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Palkia usa Extreme Speed com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Darkrai pode ter a habilidade Sand Stream, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Arceus costuma habitar costas rochosas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Snivy atua como wall física, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Sitrus Berry, Servine potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Careful é comum em Serperior para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "A quais tipos este Pokémon resiste ou é fraco?",
+      "B": "Tepig se beneficia de fraquezas quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fire podem counterar Pignite se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Emboar forma boa sinergia com parceiros que cobrem fraquezas do tipo Water.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Leaf Blade, Oshawott pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dewott resiste a ataques do tipo Grass e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Samurott é do tipo Electric e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Zoroark usa Flare Blitz com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Haxorus pode ter a habilidade Drizzle, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Hydreigon costuma habitar rios e lagos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Volcarona atua como wall especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Rocky Helmet, Reshiram potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Naive é comum em Zekrom para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Kyurem se beneficia de priority quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ice podem counterar Chespin se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Quilladin forma boa sinergia com parceiros que cobrem fraquezas do tipo Fighting.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Wild Charge, Chesnaught pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Fennekin resiste a ataques do tipo Poison e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Braixen é do tipo Ground e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Delphox usa Tackle com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Froakie pode ter a habilidade Drought, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Frogadier costuma habitar oceanos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Greninja atua como suporte, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Heavy-Duty Boots, Aegislash potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Hasty é comum em Talonflame para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Sylveon se beneficia de status quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Flying podem counterar Yveltal se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Xerneas forma boa sinergia com parceiros que cobrem fraquezas do tipo Psychic.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Quick Attack, Zygarde pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Rowlet resiste a ataques do tipo Bug e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dartrix é do tipo Rock e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Decidueye usa Thunderbolt com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Litten pode ter a habilidade Snow Warning, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Torracat costuma habitar planícies, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Incineroar atua como pivot ofensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Eviolite, Popplio potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Relaxed é comum em Brionne para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Primarina se beneficia de clima quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ghost podem counterar Mimikyu se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Lycanroc forma boa sinergia com parceiros que cobrem fraquezas do tipo Dragon.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Flamethrower, Tapu Koko pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Solgaleo resiste a ataques do tipo Dark e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Lunala é do tipo Steel e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Necrozma usa Hydro Pump com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Grookey pode ter a habilidade Beast Boost, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Thwackey costuma habitar pântanos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Rillaboom atua como pivot defensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Qual item melhora o desempenho deste Pokémon?",
+      "B": "Com Leftovers, Scorbunny potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Adamant é comum em Raboot para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Cinderace se beneficia de campo elétrico quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fairy podem counterar Sobble se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Drizzile forma boa sinergia com parceiros que cobrem fraquezas do tipo Normal.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Solar Beam, Inteleon pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Corviknight resiste a ataques do tipo Fire e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Dragapult é do tipo Water e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Zacian usa Earthquake com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Zamazenta pode ter a habilidade Sheer Force, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Eternatus costuma habitar desertos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Sprigatito atua como lead de hazards, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Life Orb, Floragato potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Modest é comum em Meowscarada para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Fuecoco se beneficia de campo de grama quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Grass podem counterar Crocalor se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Skeledirge forma boa sinergia com parceiros que cobrem fraquezas do tipo Electric.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Psychic, Quaxly pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Quaxwell resiste a ataques do tipo Ice e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Quaquaval é do tipo Fighting e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Miraidon usa Shadow Ball com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Koraidon pode ter a habilidade Serene Grace, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Palafin costuma habitar campos nevados, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Baxcalibur atua como sweeper físico, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Band, Bulbasaur potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Jolly é comum em Ivysaur para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Venusaur se beneficia de hazards quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Poison podem counterar Charmander se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Charmeleon forma boa sinergia com parceiros que cobrem fraquezas do tipo Ground.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Ice Beam, Charizard pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Squirtle resiste a ataques do tipo Flying e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Wartortle é do tipo Psychic e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Blastoise usa Dragon Claw com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Caterpie pode ter a habilidade Overgrow, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Metapod costuma habitar zonas urbanas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Butterfree atua como sweeper especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Scarf, Weedle potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Timid é comum em Kakuna para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Beedrill se beneficia de Terastal quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Bug podem counterar Pidgey se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Pidgeotto forma boa sinergia com parceiros que cobrem fraquezas do tipo Rock.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Close Combat, Pidgeot pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Rattata resiste a ataques do tipo Ghost e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Raticate é do tipo Dragon e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ekans usa Moonblast com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Arbok pode ter a habilidade Blaze, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Pikachu costuma habitar ruínas antigas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Raichu atua como wall física, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Specs, Sandshrew potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Impish é comum em Sandslash para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Nidoran♀ se beneficia de Mega Evolução quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Dark podem counterar Nidorina se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Nidoqueen forma boa sinergia com parceiros que cobrem fraquezas do tipo Steel.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Play Rough, Nidoran♂ pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Nidorino resiste a ataques do tipo Fairy e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Nidoking é do tipo Normal e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Clefairy usa Iron Head com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Clefable pode ter a habilidade Torrent, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Vulpix costuma habitar corredores vulcânicos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Ninetales atua como wall especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Focus Sash, Jigglypuff potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Bold é comum em Wigglytuff para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Zubat se beneficia de Dynamax quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fire podem counterar Golbat se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Oddish forma boa sinergia com parceiros que cobrem fraquezas do tipo Water.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Rock Slide, Gloom pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Vileplume resiste a ataques do tipo Grass e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Paras é do tipo Electric e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Parasect usa Air Slash com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Venonat pode ter a habilidade Static, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Venomoth costuma habitar ilhas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Diglett atua como suporte, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Assault Vest, Dugtrio potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Calm é comum em Meowth para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Persian se beneficia de EVs quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ice podem counterar Psyduck se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Golduck forma boa sinergia com parceiros que cobrem fraquezas do tipo Fighting.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Energy Ball, Mankey pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Primeape resiste a ataques do tipo Poison e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Growlithe é do tipo Ground e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Arcanine usa Crunch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Poliwag pode ter a habilidade Intimidate, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Poliwhirl costuma habitar vales ventosos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Poliwrath atua como pivot ofensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Sitrus Berry, Abra potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Careful é comum em Kadabra para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Alakazam se beneficia de IVs quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Flying podem counterar Machop se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Machoke forma boa sinergia com parceiros que cobrem fraquezas do tipo Psychic.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Surf, Machamp pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Bellsprout resiste a ataques do tipo Bug e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Weepinbell é do tipo Rock e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Victreebel usa Volt Switch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Tentacool pode ter a habilidade Levitate, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Tentacruel costuma habitar florestas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Geodude atua como pivot defensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Rocky Helmet, Graveler potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Naive é comum em Golem para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ponyta se beneficia de STAB quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ghost podem counterar Rapidash se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Slowpoke forma boa sinergia com parceiros que cobrem fraquezas do tipo Dragon.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar U-turn, Slowbro pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Magnemite resiste a ataques do tipo Dark e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Magneton é do tipo Steel e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Farfetch'd usa Swords Dance com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Doduo pode ter a habilidade Synchronize, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Dodrio costuma habitar cavernas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Seel atua como lead de hazards, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Heavy-Duty Boots, Dewgong potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Hasty é comum em Grimer para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Muk se beneficia de resistências quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fairy podem counterar Shellder se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Cloyster forma boa sinergia com parceiros que cobrem fraquezas do tipo Normal.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Calm Mind, Gastly pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Haunter resiste a ataques do tipo Fire e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Gengar é do tipo Water e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Onix usa Nasty Plot com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Drowzee pode ter a habilidade Technician, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Hypno costuma habitar montanhas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Krabby atua como sweeper físico, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Eviolite, Kingler potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Relaxed é comum em Voltorb para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "A quais tipos este Pokémon resiste ou é fraco?",
+      "B": "Electrode se beneficia de fraquezas quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Grass podem counterar Exeggcute se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Exeggutor forma boa sinergia com parceiros que cobrem fraquezas do tipo Electric.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Dragon Dance, Cubone pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Marowak resiste a ataques do tipo Ice e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Hitmonlee é do tipo Fighting e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Hitmonchan usa Ice Punch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Lickitung pode ter a habilidade Moxie, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Koffing costuma habitar costas rochosas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Weezing atua como sweeper especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Qual item melhora o desempenho deste Pokémon?",
+      "B": "Com Leftovers, Rhyhorn potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Adamant é comum em Rhydon para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Chansey se beneficia de priority quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Poison podem counterar Tangela se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Kangaskhan forma boa sinergia com parceiros que cobrem fraquezas do tipo Ground.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Fire Punch, Horsea pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Seadra resiste a ataques do tipo Flying e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Goldeen é do tipo Psychic e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Seaking usa Thunder Punch com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Staryu pode ter a habilidade Guts, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Starmie costuma habitar rios e lagos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Mr. Mime atua como wall física, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Life Orb, Scyther potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Modest é comum em Jynx para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Electabuzz se beneficia de status quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Bug podem counterar Magmar se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Pinsir forma boa sinergia com parceiros que cobrem fraquezas do tipo Rock.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Knock Off, Tauros pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Magikarp resiste a ataques do tipo Ghost e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Gyarados é do tipo Dragon e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Lapras usa Scald com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Ditto pode ter a habilidade Pressure, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Eevee costuma habitar oceanos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Vaporeon atua como wall especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Band, Jolteon potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Jolly é comum em Flareon para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Porygon se beneficia de clima quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Dark podem counterar Omanyte se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Omastar forma boa sinergia com parceiros que cobrem fraquezas do tipo Steel.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Draco Meteor, Kabuto pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Kabutops resiste a ataques do tipo Fairy e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Aerodactyl é do tipo Normal e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Snorlax usa Hurricane com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Articuno pode ter a habilidade Prankster, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Zapdos costuma habitar planícies, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Moltres atua como suporte, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Scarf, Dratini potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Timid é comum em Dragonair para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Dragonite se beneficia de campo elétrico quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fire podem counterar Mewtwo se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Mew forma boa sinergia com parceiros que cobrem fraquezas do tipo Water.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Focus Blast, Chikorita pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Bayleef resiste a ataques do tipo Grass e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Meganium é do tipo Electric e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Cyndaquil usa Stone Edge com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Quilava pode ter a habilidade Protean, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Typhlosion costuma habitar pântanos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Totodile atua como pivot ofensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Choice Specs, Croconaw potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Impish é comum em Feraligatr para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Mareep se beneficia de campo de grama quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ice podem counterar Flaaffy se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Ampharos forma boa sinergia com parceiros que cobrem fraquezas do tipo Fighting.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Shadow Sneak, Sudowoodo pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Espeon resiste a ataques do tipo Poison e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Umbreon é do tipo Ground e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Scizor usa Extreme Speed com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Heracross pode ter a habilidade Magic Guard, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Skarmory costuma habitar desertos, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Suicune atua como pivot defensivo, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Focus Sash, Entei potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Bold é comum em Raikou para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Lugia se beneficia de hazards quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Flying podem counterar Ho-Oh se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Treecko forma boa sinergia com parceiros que cobrem fraquezas do tipo Psychic.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Leaf Blade, Grovyle pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Sceptile resiste a ataques do tipo Bug e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Torchic é do tipo Rock e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Combusken usa Flare Blitz com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Blaziken pode ter a habilidade Multiscale, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Mudkip costuma habitar campos nevados, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Marshtomp atua como lead de hazards, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Assault Vest, Swampert potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Calm é comum em Ralts para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Kirlia se beneficia de Terastal quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Ghost podem counterar Gardevoir se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Gallade forma boa sinergia com parceiros que cobrem fraquezas do tipo Dragon.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Wild Charge, Gulpin pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Swalot resiste a ataques do tipo Dark e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Plusle é do tipo Steel e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Minun usa Tackle com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Altaria pode ter a habilidade Regenerator, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Salamence costuma habitar zonas urbanas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Metagross atua como sweeper físico, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Sitrus Berry, Latias potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Careful é comum em Latios para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Kyogre se beneficia de Mega Evolução quando bem treinado e posicionado.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Inimigos do tipo Fairy podem counterar Groudon se tiverem cobertura adequada.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Rayquaza forma boa sinergia com parceiros que cobrem fraquezas do tipo Normal.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Ao usar Quick Attack, Turtwig pode configurar varridas no fim da partida.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Grotle resiste a ataques do tipo Fire e pressiona a troca adversária.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é o tipo deste Pokémon?",
+      "B": "Torterra é do tipo Water e obtém STAB em golpes desse tipo.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Chimchar usa Thunderbolt com alta eficácia em confrontos favoráveis.",
+      "Label": 1
+    },
+    {
+      "A": "Qual habilidade este Pokémon pode ter?",
+      "B": "Monferno pode ter a habilidade Adaptability, mudando sua função no time.",
+      "Label": 1
+    },
+    {
+      "A": "Onde este Pokémon vive?",
+      "B": "Infernape costuma habitar ruínas antigas, adaptando-se ao ambiente local.",
+      "Label": 1
+    },
+    {
+      "A": "Qual papel este Pokémon desempenha em batalha?",
+      "B": "Em batalhas, Piplup atua como sweeper especial, pressionando o oponente.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Com Rocky Helmet, Prinplup potencializa seu desempenho em partidas.",
+      "Label": 1
+    },
+    {
+      "A": "Qual é uma boa natureza para este Pokémon?",
+      "B": "Uma natureza Naive é comum em Empoleon para maximizar seus atributos.",
+      "Label": 1
+    },
+    {
+      "A": "Dê informações sobre este Pokémon.",
+      "B": "Lucario se beneficia de Dynamax quando bem treinado e posicionado.",
+      "Label": 1
+    }
+  ]
+}
